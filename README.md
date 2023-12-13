@@ -20,6 +20,7 @@ In this master's thesis, we will consider the main stages of developing a game f
 3. Play
 
 ## Download link
+https://drive.google.com/file/d/1C8syQHnqQaO51j4CqKEId5DFrOOEUMqg/view?usp=sharing
 
 ## Developers
 
