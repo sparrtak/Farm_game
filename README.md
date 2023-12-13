@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/WWFP44j/Git-Hub-Logo.png" alt="Project Logo" width="726">
+      <img src="[https://i.ibb.co/WWFP44j/Git-Hub-Logo.png](https://icons8.ru/icon/118750/%D1%84%D0%B5%D1%80%D0%BC%D0%B0)" alt="Project Logo" width="726">
 </p>
 
 <p align="center">
