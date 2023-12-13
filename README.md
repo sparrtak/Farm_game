@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/p4gW4Yq/free-icon-greenhouse-6327398.png" alt="Project Logo" width="726">
+      <img [url=https://ibb.co/p4gW4Yq][img]https://i.ibb.co/p4gW4Yq/free-icon-greenhouse-6327398.png[/img][/url] alt="Project Logo" width="726">
 </p>
 
 
