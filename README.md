@@ -62,13 +62,9 @@ The swipe capture system was conceived as a separate module that could take over
 
 - `DEBUG_SWIPE_DETECTOR` - Output swipe detector logs only.
 
-## Distribute
-
-- [packages.burning-lab.com](https://packages.burning-lab.com/-/web/detail/com.burning-lab.swipedetector)
-
 ## Developers
 
-- [n.fridman](https://github.com/n-fridman)
+- [sparrtak](https://github.com/sparrtak)
 
 ## License
 
