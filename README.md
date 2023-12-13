@@ -1,6 +1,7 @@
 <p align="center">
-      <img src="[https://i.ibb.co/WWFP44j/Git-Hub-Logo.png]" alt="Project Logo" width="726">
+      <img src="https://ibb.co/p4gW4Yq" alt="Project Logo" width="726">
 </p>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Engine-2023-blueviolet" alt="Unity Version">
