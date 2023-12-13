@@ -19,16 +19,7 @@ In this master's thesis, we will consider the main stages of developing a game f
 2. Install apk-file
 3. Play
 
-**Burning-Lab Registry:**
-```json
-    {
-      "name": "Burning-Lab Registry",
-      "url": "https://packages.burning-lab.com",
-      "scopes": [
-        "com.burning-lab"
-      ]
-    }
-```
+## Download link
 
 ## Developers
 
