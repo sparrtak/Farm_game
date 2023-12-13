@@ -3,16 +3,14 @@
 </p>
 
 <p align="center">
-    <img src="https://build.burning-lab.com/app/rest/builds/buildType:id:UnityAssets_ComBurningLabSwipedetector_DevelopmentBuild/statusIcon.svg" alt="Build Status">
-    <a href="https://burning-lab.youtrack.cloud/agiles/131-11/current"><img src="https://img.shields.io/badge/Roadmap-YouTrack-orange" alt="Roadmap Link"></a>
-    <img src="https://img.shields.io/badge/Engine-2021.3-blueviolet" alt="Unity Version">
-    <img src="https://img.shields.io/badge/Version-1.2.1-blue" alt="Game Version">
+    <img src="https://img.shields.io/badge/Engine-2023-blueviolet" alt="Unity Version">
+    <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Game Version">
     <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
 </p>
 
 ## About
 
-The swipe capture system was conceived as a separate module that could take over all the work on recognizing and processing swipes on mobile platforms. Interaction with the component is carried out using events. This approach completely separates the code of your project and the code of the component responsible for processing swipes, and a wide set of events will allow you to use this component in any projects and for any tasks.
+In this master's thesis, we will consider the main stages of developing a game for the Android platform using Unity 3D. We will describe the process of designing game mechanics, developing graphic resources, programming interactive game elements, and optimizing the product for the Android platform.
 
 ## Installation
 
