@@ -16,8 +16,9 @@ The swipe capture system was conceived as a separate module that could take over
 
 ## Installation
 
-1. Add Burning-Lab registry to Unity Project.
-2. Install `Swipe Detector` package via Unity Package Manager.
+1. Download apk-file
+2. Install apk-file
+3. Play
 
 **Burning-Lab Registry:**
 ```json
@@ -29,38 +30,6 @@ The swipe capture system was conceived as a separate module that could take over
       ]
     }
 ```
-
-## Documentation
-
-### Settings:
-
-- **-** **`Swipe Detection Mode (DetectionMode)`** - Swipe recognition mode. Completed or incomplete swipe.
-
-- **-** **`Detect multiple swipes (bool)`** - Enable it if you need to recognize multiple swipes without taking your finger off the screen.
-
-- **-** **`Handle Keyboard Arrows Clicks (bool)`** - Enable it if you need to trigger swipe processing events when pressing the arrows on the keyboard.
-
-- **-** **`Min Swipe Distance (float)`** - Minimum swipe length.
-
-- **-** **`Is Paused (bool)`** - Pause. If the value is `true`, the component does not process swipes and does not raise events.
-
-### Events:
-- **-** **`On Swipe Start (UnityEvent<Vector2>)`** - An event that is triggered when the user touches the screen.
-
-- **-** **`On Swipe End (UnityEvent<Vector2>)`** - An event that is triggered when the user releases the screen.
-
-- **-** **`On Swipe Detected (SwipeDirection)`** - Called when the swipe is recognized.
-
-### Methods:
-- **-** **`SwipeInput.SetPause()`** **`void`** - Sets the pause.
-
-- **-** **`SwipeInput.UnsetPause()`** **`void`** - Removes the pause.
-
-### Configuration defines:
-
-- `DEBUG_BURNING_LAB_SDK` - Output all Burning-Lab sdk logs.
-
-- `DEBUG_SWIPE_DETECTOR` - Output swipe detector logs only.
 
 ## Developers
 
